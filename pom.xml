@@ -204,7 +204,7 @@
 					<url>http://${deploy.url}:${deploy.port}/manager/text</url>
 					<username>tomcat</username>
 					<password>tomcat</password>
-					<path>/versioncontrol</path>
+					<path>/peguin</path>
 					<port>${deploy.port}</port>
 					<uriEncoding>UTF-8</uriEncoding>
 				</configuration>
