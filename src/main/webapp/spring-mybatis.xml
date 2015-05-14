@@ -28,7 +28,7 @@ xsi:schemaLocation="
 	</bean>
 
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-		<property name="basePackage" value="com.cmb.appversion.dao" />
+		<property name="basePackage" value="com.penguin.dao" />
 		 <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory" />
 	</bean>
 
